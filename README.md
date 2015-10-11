@@ -2,6 +2,9 @@
 
 **Project Name** : ERPSystem
 
+**Class Diagram**
+![class diagram](ERPSystem_Arch.png)
+
 **Point**
 - Syntax fundamental
 - OOP fundamental
@@ -18,3 +21,6 @@
 - Backup using file system
 - Report summary
 - Report summary to file
+
+**Site**
+- [java class](bit.ly/java201507_class)
