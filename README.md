@@ -23,4 +23,4 @@
 - Report summary to file
 
 **Site**
-- [java class](bit.ly/java201507_class)
+- [java class](http://bit.ly/java201507_class)
